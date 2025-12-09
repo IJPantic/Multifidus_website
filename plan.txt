@@ -22,3 +22,4 @@ Basic structure:
 			used by user to leave a recension to a website
 		database_manager.py - for database control:
 			useb by business owner to edit comments, recensions and blogs database
+
