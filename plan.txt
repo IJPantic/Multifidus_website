@@ -1,0 +1,24 @@
+Written by Ivan Jonjic (IJPantic on github), 9 December, 2025.
+
+This document explains structure of "Multifidus Imotski" website.
+
+Basic structure:
+	Front-end part:
+		index.html - starting page:
+			starting site, contains links to other pages (blogovi.html, recenzije.html & usluge.html)
+			contains basic information about business like phone number, address, working hours
+		blogovi.html - blogs page:
+			contains blogs written by business owner for users to read and leave comments
+		recenzije - recensions page:
+			users can read recensions or leave their own recensions
+		usluge.html - business services page:
+			contains a list and description of services provided by business
+		stll.css - style for website:
+			is used by all web pages
+	Back-end part:
+		blog_writter.py - for writing blogs:
+			program used by business owner to write new, edit already existing ones or remove blogs from a website
+		recension_writter.py - for leaving recensions:
+			used by user to leave a recension to a website
+		database_manager.py - for database control:
+			useb by business owner to edit comments, recensions and blogs database
