@@ -1,0 +1,26 @@
+Napisao Ivan Jonjić, 29.11.2025.
+
+struktura stranica:
+	pocetna stranica
+		blogovi
+		recenzije
+		usluge
+
+svrha pojedine stranice:
+	pocetna stranica:
+		vodi na ostale podstranice
+		opis tvrtke i koje usluge se sve nude
+			broj telefona
+			e-mail
+			lokacija
+			radno vrijeme
+	blogovi:
+		mogucnost da pisete nove, uređujete stare ili brišete blogove i postavljate slike
+		korisnici mogu objavljivat komentare
+		mogucnost brisati komentare ukoliko krse neka vasa pravila
+	recenzije:
+		mogucnost da korisnici objavljuju recenzije i svoja iskustva
+		mogucnost brisati recenzije ukoliko krse neka vasa pravila
+		svaki korisnik moze napisati samo jednu recenziju sa svog e-maila te je moze uređivati ili brisati po zelji
+	upisivanje:
+		mogucnost da ljudi vide slobodne termine kroz tjedan
